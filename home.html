@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body onload="loadHome()">
+
+<div class="sidebar">
+  <h2>🌍 MENU </h2>
+  <ul>
+    <li onclick="showSection('profile')">Profile</li>
+    <li onclick="showSection('places')">Places</li>
+    <li onclick="showSection('hotels')">Hotels</li>
+    <li onclick="showSection('restaurants')">Restaurants</li>
+    <li onclick="showSection('report')">Report</li>
+    <li onclick="showSection('contact')">Contact</li>
+    <!-- ✅ FIX -->
+    <li onclick="showSection('terms')">Terms and Condition</li>
+    <li onclick="logout()">Logout</li>
+  </ul>
+</div>
+
+<div class="main">
+  <h1 class="title">Smart Tourism Explorer</h1>
+  <div id="content"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

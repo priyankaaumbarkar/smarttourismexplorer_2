@@ -1,0 +1,100 @@
+{
+  "places":[
+    {"name":"Goa","desc":"Famous beach destination","website":"https://goa.gov.in","image":"https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg"},
+    {"name":"Manali","desc":"Snow mountains","website":"https://himachal.nic.in","image":"https://images.pexels.com/photos/1586298/pexels-photo-1586298.jpeg"},
+    {"name":"New York","desc":"Skyscraper city","website":"https://www.nyc.gov","image":"https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg"},
+    {"name":"London","desc":"Historic city","website":"https://www.visitlondon.com","image":"https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg"},
+    {"name":"Paris","desc":"Eiffel tower city","website":"https://en.parisinfo.com","image":"https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg"},
+    {"name":"Dubai","desc":"Luxury city","website":"https://www.visitdubai.com","image":"https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg"}
+  ],
+
+  "hotels":[
+
+    {"name":"Taj Goa","desc":"Luxury","price":10000,"place":"Goa","website":"https://www.tajhotels.com","image":"https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg"},
+    {"name":"Goa Resort","desc":"Beach","price":8000,"place":"Goa","website":"https://www.booking.com","image":"https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"},
+    {"name":"Goa Stay","desc":"Budget","price":5000,"place":"Goa","website":"https://www.makemytrip.com","image":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg"},
+    {"name":"Goa Palace","desc":"Premium","price":9000,"place":"Goa","website":"https://www.marriott.com","image":"https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg"},
+    {"name":"Goa Inn","desc":"Hotel","price":6000,"place":"Goa","website":"https://www.expedia.com","image":"https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg"},
+    {"name":"Holiday Inn Goa","desc":"Comfort","price":7000,"place":"Goa","website":"https://www.ihg.com","image":"https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg"},
+
+    {"name":"Manali Resort","desc":"Snow","price":7000,"place":"Manali","website":"https://www.booking.com","image":"https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg"},
+    {"name":"Manali Stay","desc":"Hotel","price":6000,"place":"Manali","website":"https://www.makemytrip.com","image":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg"},
+    {"name":"Manali Inn","desc":"Budget","price":4000,"place":"Manali","website":"https://www.expedia.com","image":"https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg"},
+    {"name":"Manali Palace","desc":"Luxury","price":8000,"place":"Manali","website":"https://www.marriott.com","image":"https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg"},
+    {"name":"Snow Hotel","desc":"View","price":6500,"place":"Manali","website":"https://www.tripadvisor.in","image":"https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"},
+    {"name":"Apple Resort","desc":"Resort","price":7500,"place":"Manali","website":"https://www.applecountryresort.com","image":"https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"},
+
+    {"name":"NY Marriott","desc":"Luxury","price":15000,"place":"New York","website":"https://www.marriott.com","image":"https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"},
+    {"name":"Hilton NY","desc":"Premium","price":14000,"place":"New York","website":"https://www.hilton.com","image":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg"},
+    {"name":"Hyatt NY","desc":"Comfort","price":13000,"place":"New York","website":"https://www.hyatt.com","image":"https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg"},
+    {"name":"Holiday Inn NY","desc":"Budget","price":10000,"place":"New York","website":"https://www.ihg.com","image":"https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg"},
+    {"name":"NY Stay","desc":"Hotel","price":9000,"place":"New York","website":"https://www.booking.com","image":"https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg"},
+    {"name":"NY Palace","desc":"Luxury","price":16000,"place":"New York","website":"https://www.expedia.com","image":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg"},
+
+    {"name":"London Hilton","desc":"Luxury","price":12000,"place":"London","website":"https://www.hilton.com","image":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg"},
+    {"name":"London Marriott","desc":"Premium","price":11000,"place":"London","website":"https://www.marriott.com","image":"https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"},
+    {"name":"London Hyatt","desc":"Comfort","price":10000,"place":"London","website":"https://www.hyatt.com","image":"https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg"},
+    {"name":"London Inn","desc":"Budget","price":8000,"place":"London","website":"https://www.ihg.com","image":"https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg"},
+    {"name":"London Stay","desc":"Hotel","price":7000,"place":"London","website":"https://www.booking.com","image":"https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg"},
+    {"name":"London Palace","desc":"Luxury","price":13000,"place":"London","website":"https://www.expedia.com","image":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg"},
+
+    {"name":"Paris Ritz","desc":"Luxury","price":14000,"place":"Paris","website":"https://www.ritzparis.com","image":"https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg"},
+    {"name":"Paris Marriott","desc":"Premium","price":12000,"place":"Paris","website":"https://www.marriott.com","image":"https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"},
+    {"name":"Paris Hilton","desc":"Comfort","price":11000,"place":"Paris","website":"https://www.hilton.com","image":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg"},
+    {"name":"Paris Hyatt","desc":"Luxury","price":13000,"place":"Paris","website":"https://www.hyatt.com","image":"https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg"},
+    {"name":"Paris Stay","desc":"Hotel","price":9000,"place":"Paris","website":"https://www.booking.com","image":"https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg"},
+    {"name":"Paris Inn","desc":"Budget","price":8000,"place":"Paris","website":"https://www.expedia.com","image":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg"},
+
+    {"name":"Burj Hotel","desc":"Luxury","price":20000,"place":"Dubai","website":"https://www.jumeirah.com","image":"https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"},
+    {"name":"Atlantis Dubai","desc":"Resort","price":18000,"place":"Dubai","website":"https://www.atlantis.com","image":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg"},
+    {"name":"Hilton Dubai","desc":"Premium","price":15000,"place":"Dubai","website":"https://www.hilton.com","image":"https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg"},
+    {"name":"Marriott Dubai","desc":"Luxury","price":14000,"place":"Dubai","website":"https://www.marriott.com","image":"https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg"},
+    {"name":"Dubai Stay","desc":"Hotel","price":12000,"place":"Dubai","website":"https://www.booking.com","image":"https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg"},
+    {"name":"Dubai Inn","desc":"Budget","price":10000,"place":"Dubai","website":"https://www.expedia.com","image":"https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg"}
+  ],
+
+  "restaurants":[
+
+    {"name":"Goa Food","desc":"Seafood","place":"Goa","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg"},
+    {"name":"Goa Cafe","desc":"Cafe","place":"Goa","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+    {"name":"Goa Dining","desc":"Dining","place":"Goa","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"},
+    {"name":"Goa Fast","desc":"Fast food","place":"Goa","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg"},
+    {"name":"Goa Restaurant","desc":"Food","place":"Goa","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg"},
+    {"name":"Goa Kitchen","desc":"Dining","place":"Goa","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+
+    {"name":"Manali Cafe","desc":"Cafe","place":"Manali","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+    {"name":"Manali Food","desc":"Dining","place":"Manali","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"},
+    {"name":"Manali Fast","desc":"Fast food","place":"Manali","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg"},
+    {"name":"Manali Dining","desc":"Restaurant","place":"Manali","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg"},
+    {"name":"Manali Restaurant","desc":"Food","place":"Manali","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+    {"name":"Snow Cafe","desc":"Cafe","place":"Manali","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"},
+
+    {"name":"NY Diner","desc":"Food","place":"New York","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg"},
+    {"name":"Shake Shack","desc":"Fast food","place":"New York","website":"https://www.shakeshack.com","image":"https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg"},
+    {"name":"NY Cafe","desc":"Cafe","place":"New York","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+    {"name":"NY Dining","desc":"Restaurant","place":"New York","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"},
+    {"name":"NY Food","desc":"Food","place":"New York","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg"},
+    {"name":"NY Kitchen","desc":"Dining","place":"New York","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+
+    {"name":"London Cafe","desc":"Cafe","place":"London","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+    {"name":"Dishoom","desc":"Indian","place":"London","website":"https://www.dishoom.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+    {"name":"London Food","desc":"Dining","place":"London","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"},
+    {"name":"London Fast","desc":"Fast food","place":"London","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg"},
+    {"name":"London Dining","desc":"Restaurant","place":"London","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg"},
+    {"name":"London Kitchen","desc":"Dining","place":"London","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+
+    {"name":"Paris Cafe","desc":"Cafe","place":"Paris","website":"https://cafedeflore.fr","image":"https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg"},
+    {"name":"Paris Food","desc":"Dining","place":"Paris","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"},
+    {"name":"Paris Dining","desc":"Restaurant","place":"Paris","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+    {"name":"Paris Fast","desc":"Fast food","place":"Paris","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg"},
+    {"name":"Paris Restaurant","desc":"Food","place":"Paris","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg"},
+    {"name":"Paris Kitchen","desc":"Dining","place":"Paris","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+
+    {"name":"Dubai Cafe","desc":"Cafe","place":"Dubai","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"},
+    {"name":"Zuma Dubai","desc":"Luxury","place":"Dubai","website":"https://zumarestaurant.com","image":"https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg"},
+    {"name":"Dubai Food","desc":"Dining","place":"Dubai","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"},
+    {"name":"Dubai Fast","desc":"Fast food","place":"Dubai","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg"},
+    {"name":"Dubai Dining","desc":"Restaurant","place":"Dubai","website":"https://www.swiggy.com","image":"https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg"},
+    {"name":"Dubai Kitchen","desc":"Dining","place":"Dubai","website":"https://www.zomato.com","image":"https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg"}
+  ]
+}
