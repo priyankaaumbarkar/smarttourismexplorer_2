@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Sign Up</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="auth-container">
+    <div class="auth-box auth-card">
+      <h1>Create Account</h1>
+      <h2>Join Smart Tourism Explorer and start your journey.</h2>
+
+      <div class="form-group">
+        <label for="regUser">Username</label>
+        <input id="regUser" placeholder="Username">
+      </div>
+      <div class="form-group">
+        <label for="regPass">Password</label>
+        <input id="regPass" type="password" placeholder="Password">
+      </div>
+
+      <div class="check-row">
+        <input type="checkbox" id="agree">
+        <label for="agree">I agree to the terms of service</label>
+      </div>
+
+      <button onclick="register()">Sign Up</button>
+
+      <p class="auth-footer">
+        Already have an account? <a href="login.html">Login</a>
+      </p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

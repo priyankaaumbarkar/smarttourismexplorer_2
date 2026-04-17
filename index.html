@@ -1,27 +1,49 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>Smart Tourism</title>
-<link rel="stylesheet" href="style.css">
+  <title>Smart Tourism</title>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<div class="auth-container">
-  <div class="auth-box">
-    <h1> Smart Tourism Explore </h1>
+  <div class="auth-container">
+    <div class="auth-box">
+      <h1>Smart Tourism Explore</h1>
+      <h2>Sign up or log in to explore the best travel destinations.</h2>
 
-    <h2>Sign Up</h2>
-    <input type="text" id="regUser" placeholder="Username">
-    <input type="password" id="regPass" placeholder="Password">
-    <button onclick="register()">Sign Up</button>
+      <div class="form-group">
+        <label for="regUser">Username</label>
+        <input type="text" id="regUser" placeholder="Enter username">
+      </div>
+      <div class="form-group">
+        <label for="regPass">Password</label>
+        <input type="password" id="regPass" placeholder="Enter password">
+      </div>
+      <div class="check-row">
+        <input type="checkbox" id="agree">
+        <label for="agree">I agree to the terms of service</label>
+      </div>
+      <button onclick="register()">Create Account</button>
 
-    <h2>Login</h2>
-    <input type="text" id="loginUser" placeholder="Username">
-    <input type="password" id="loginPass" placeholder="Password">
-    <button onclick="login()">Login</button>
+      <div class="separator">Already have an account?</div>
+
+      <div class="form-group">
+        <label for="loginUser">Username</label>
+        <input type="text" id="loginUser" placeholder="Username">
+      </div>
+      <div class="form-group">
+        <label for="loginPass">Password</label>
+        <input type="password" id="loginPass" placeholder="Password">
+      </div>
+      <button onclick="login()">Login</button>
+
+      <p class="auth-footer">Or use <a href="login.html">Login Page</a> / <a href="signup.html">Sign Up Page</a></p>
+    </div>
   </div>
-</div>
 
-<script src="script.js"></script>
+  <script src="script.js"></script>
 </body>
+
 </html>
